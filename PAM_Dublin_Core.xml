@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <dc:title>AFSC/MML: Acoustics long-term passive monitoring using moored autonomous recorders in the Bering, Chukchi, and Western Beaufort Seas, 2007-2023</dc:title>
+   <dcterms:alternative>AFSC/MML: Acoustics long-term passive monitoring using moored autonomous recorders in the Bering, Chukchi, and Western Beaufort Seas, 2007-2023</dcterms:alternative>
+   <dc:language xsi:type="dcterms:ISO639-3">eng</dc:language>
+   <dc:type xsi:type="dcterms:DCMIType">Dataset</dc:type>
+   <dc:subject>biota</dc:subject>
+   <dc:subject>oceans</dc:subject>
+   <dc:subject>AURAL</dc:subject>
+   <dc:subject>EAR</dc:subject>
+   <dc:subject>Haruphone</dc:subject>
+   <dc:subject>autonomous recorder</dc:subject>
+   <dc:subject>long-term</dc:subject>
+   <dc:subject>passive acoustics</dc:subject>
+   <dc:subject>seismic airguns</dc:subject>
+   <dc:subject>Chukchi Sea</dc:subject>
+   <dc:subject>Eastern Bering Sea</dc:subject>
+   <dc:subject>Fram Strait off Greenland</dc:subject>
+   <dc:subject>Western Beaufort Sea</dc:subject>
+   <dcterms:abstract>The Marine Mammal Laboratory (MML) has deployed long-term passive acoustic recorders in various locations in Alaskan waters and in the High Arctic to determine spatio-temporal distribution of marine mammals as well as environmental and anthropogenic noise. Following the timing of peak calling among the various long-term recorders may provide some insight into finer-scale movements of cetaceans throughout the Bering, Chukchi, and Beaufort Seas as well as in the Gulf of Alaska. Changes in ambient noise levels can also be tracked. Recordings are available since 2007 in the Bering and Beaufort Seas, since 2010 in the Chukchi, since 2019 in the Gulf of Alaska, and from 2008-2012 in Fram Strait. The majority of these recorders were deployed on MML subsurface moorings, although several have been deployed on the oceanographic moorings of other researchers. Several different types of autonomous passive acoustic recorders have been deployed, most for one year. Recording parameters varied among instrument types and have evolved among projects. The majority of these recorders and deployments were funded by the Bureau of Ocean Energy Management (BOEM); however, funding in recent years has come from the Office of Naval Research (Marine Mammals and Biology Program), NMFS Office of Protected Resources, and the NMFS Office of Science and Technology (including the Ocean Acoustic Program). </dcterms:abstract>
+   <dc:publisher>Alaska Fisheries Science Center</dc:publisher>
+   <dc:creator>Alaska Fisheries Science Center</dc:creator>
+   <dc:identifier xsi:type="dcterms:URI">https://www.fisheries.noaa.gov/inport/item/17343</dc:identifier>
+   <dcterms:isPartOf xsi:type="dcterms:URI">https://www.fisheries.noaa.gov/inport/item/23107</dcterms:isPartOf>
+   <dcterms:spatial xsi:type="dcterms:Box">
+            northlimit=78.9;
+            eastlimit=-0.5;
+            southlimit=53.5;
+            westlimit=-174.8;
+          name=Eastern Bering, Chukchi, and Western Beaufort Seas, with a couple recorders in Fram Strait;
+          </dcterms:spatial>
+   <dcterms:temporal xsi:type="dcterms:Period">
+              start=2007;
+              end=2014;
+            </dcterms:temporal>
+   <dcterms:accessRights>There are no legal restrictions on access to the data. They reside in public domain and can be freely distributed.</dcterms:accessRights>
+</metadata>

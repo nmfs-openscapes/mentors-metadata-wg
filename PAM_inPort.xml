@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inport-metadata xmlns:xs="http://www.w3.org/2001/XMLSchema"
+                 version="1.11"
+                 source="https://www.fisheries.noaa.gov">
+   <item-identification>
+      <catalog-item-id>17343</catalog-item-id>
+      <title>AFSC/MML: Acoustics long-term passive monitoring using moored autonomous recorders in the Bering, Chukchi, and Western Beaufort Seas, 2007-2023</title>
+      <short-name>AFSC/MML: Acoustics long-term passive monitoring using moored autonomous recorders in the Bering, Chukchi, and Western Beaufort Seas, 2007-2023</short-name>
+      <catalog-item-type>Data Set</catalog-item-type>
+      <metadata-workflow-state ccs-id="9">Published / External</metadata-workflow-state>
+      <parent-catalog-item-id>23107</parent-catalog-item-id>
+      <parent-title>Cetacean Assessment and Ecology Program</parent-title>
+      <parent-catalog-item-type>Project</parent-catalog-item-type>
+      <status>In Work</status>
+      <creation-date>2007</creation-date>
+      <revision-date>2023</revision-date>
+      <abstract>The Marine Mammal Laboratory (MML) has deployed long-term passive acoustic recorders in various locations in Alaskan waters and in the High Arctic to determine spatio-temporal distribution of marine mammals as well as environmental and anthropogenic noise. Following the timing of peak calling among the various long-term recorders may provide some insight into finer-scale movements of cetaceans throughout the Bering, Chukchi, and Beaufort Seas as well as in the Gulf of Alaska. Changes in ambient noise levels can also be tracked. Recordings are available since 2007 in the Bering and Beaufort Seas, since 2010 in the Chukchi, since 2019 in the Gulf of Alaska, and from 2008-2012 in Fram Strait. The majority of these recorders were deployed on MML subsurface moorings, although several have been deployed on the oceanographic moorings of other researchers. Several different types of autonomous passive acoustic recorders have been deployed, most for one year. Recording parameters varied among instrument types and have evolved among projects. The majority of these recorders and deployments were funded by the Bureau of Ocean Energy Management (BOEM); however, funding in recent years has come from the Office of Naval Research (Marine Mammals and Biology Program), NMFS Office of Protected Resources, and the NMFS Office of Science and Technology (including the Ocean Acoustic Program). </abstract>
+      <purpose>The purpose of these long-term recorder deployments is to assess year-round presence, distribution, and relative abundance of marine mammals in the Bering, Chukchi, and Beaufort Seas, as well as in Fram Strait.</purpose>
+      <notes>Loaded by FGDC Metadata Uploader, batch 8186, 02-19-2016 14:02
+
+The following FGDC sections are not currently supported in InPort, but were preserved and will be included in the FGDC export:
+-  Taxonomy (FGDC:taxonomy)</notes>
+   </item-identification>
+   <keywords>
+      <keyword controlled="Yes">
+         <keyword-type>Theme</keyword-type>
+         <thesaurus>ISO 19115 Topic Category</thesaurus>
+         <keyword>biota</keyword>
+      </keyword>
+      <keyword controlled="Yes">
+         <keyword-type>Theme</keyword-type>
+         <thesaurus>ISO 19115 Topic Category</thesaurus>
+         <keyword>oceans</keyword>
+      </keyword>
+      <keyword controlled="No">
+         <keyword-type>Theme</keyword-type>
+         <keyword>AURAL</keyword>
+      </keyword>
+      <keyword controlled="No">
+         <keyword-type>Theme</keyword-type>
+         <keyword>EAR</keyword>
+      </keyword>
+      <keyword controlled="No">
+         <keyword-type>Theme</keyword-type>
+         <keyword>Haruphone</keyword>
+      </keyword>
+      <keyword controlled="No">
+         <keyword-type>Theme</keyword-type>
+         <keyword>autonomous recorder</keyword>
+      </keyword>
+      <keyword controlled="No">
+         <keyword-type>Theme</keyword-type>
+         <keyword>long-term</keyword>
+      </keyword>
+      <keyword controlled="No">
+         <keyword-type>Theme</keyword-type>
+         <keyword>passive acoustics</keyword>
+      </keyword>
+      <keyword controlled="No">
+         <keyword-type>Theme</keyword-type>
+         <keyword>seismic airguns</keyword>
+      </keyword>
+      <keyword controlled="No">
+         <keyword-type>Spatial</keyword-type>
+         <keyword>Chukchi Sea</keyword>
+      </keyword>
+      <keyword controlled="No">
+         <keyword-type>Spatial</keyword-type>
+         <keyword>Eastern Bering Sea</keyword>
+      </keyword>
+      <keyword controlled="No">
+         <keyword-type>Spatial</keyword-type>
+         <keyword>Fram Strait off Greenland</keyword>
+      </keyword>
+      <keyword controlled="No">
+         <keyword-type>Spatial</keyword-type>
+         <keyword>Western Beaufort Sea</keyword>
+      </keyword>
+   </keywords>
+   <physical-location>
+      <organization>National Marine Mammal Laboratory</organization>
+      <city>Seattle</city>
+      <state-province>WA</state-province>
+      <country>United States</country>
+   </physical-location>
+   <data-set-information>
+      <data-set-scope-code>Data Set</data-set-scope-code>
+      <maintenance-frequency>Annually</maintenance-frequency>
+      <data-presentation-form>Table (digital)</data-presentation-form>
+      <distribution-liability>The user is responsible for the results of any application of this data for other than its intended purpose.
+NOAA denies liability if the data are misused.</distribution-liability>
+      <data-set-credit>Funding is from the Bureau of Ocean Energy Management,the Office of Naval Research (Marine Mammals and Biology Program), NMFS Office of Protected Resources, and the NMFS Office of Science and Technology (including the Ocean Acoustic Program).</data-set-credit>
+   </data-set-information>
+   <entity-attribute-information partial-listing="No" total-count="1">
+      <entity>
+         <item-identification>
+            <catalog-item-id>26355</catalog-item-id>
+            <title>csv file</title>
+            <short-name>csv file</short-name>
+            <metadata-workflow-state ccs-id="9">Published / External</metadata-workflow-state>
+            <status>In Work</status>
+            <abstract>CZ10_AU_A03</abstract>
+            <notes>Loaded by FGDC Metadata Uploader, batch 6797, 08-11-2015 19:57</notes>
+         </item-identification>
+         <entity-information>
+            <entity-type>Data File</entity-type>
+            <description>CZ10_AU_A03</description>
+         </entity-information>
+         <data-attributes partial-listing="No" total-count="20">
+            <data-attribute cc-id="288717">
+               <name>Date</name>
+               <data-storage-type>Unknown</data-storage-type>
+               <required>No</required>
+               <primary-key>No</primary-key>
+               <status>Active</status>
+               <description>Date for the acoustic presence of listed species (UTC).</description>
+            </data-attribute>
+            <data-attribute cc-id="288718">
+               <name>Mooring Name</name>
+               <data-storage-type>Unknown</data-storage-type>
+               <required>No</required>
+               <primary-key>No</primary-key>
+               <status>Active</status>
+               <description>Name given to mooring.  First two letters represent project name, next two numbers represent deployment year, next two letters designate recorder type, next one or two letters designate location or mooring type, last two numbers designate mooring number.</description>
+            </data-attribute>
+            <data-attribute cc-id="288719">
+               <name>Recordings Available</name>
+               <data-storage-type>Unknown</data-storage-type>
+               <required>No</required>
+               <primary-key>No</primary-key>
+               <status>Active</status>
+               <description>Numerical value given to denote whether acoustic recordings are available for this date. 1 = yes, 2 = no.</description>
+            </data-attribute>
+            <data-attribute cc-id="288720">
+               <name>Right whale</name>
+               <data-storage-type>Unknown</data-storage-type>
+               <required>No</required>
+               <primary-key>No</primary-key>
+               <status>Active</status>
+               <description>Numerical value given to denote detection of right whale calls.  1 = detected, 0 = not detected, 9 = not yet analyzed.</description>
+            </data-attribute>
+            <data-attribute cc-id="288721">
+               <name>Gunshot call</name>
+               <data-storage-type>Unknown</data-storage-type>
+               <required>No</required>
+               <primary-key>No</primary-key>
+               <status>Active</status>
+               <description>Numerical value given to denote detection of gunshot call type.  1 = detected, 0 = not detected, 9 = not yet analyzed.</description>
+            </data-attribute>
+            <data-attribute cc-id="288722">
+               <name>Bowhead whale</name>
+               <data-storage-type>Unknown</data-storage-type>
+               <required>No</required>
+               <primary-key>No</primary-key>
+               <status>Active</status>
+               <description>Numerical value given to denote detection of bowhead whale calls.  1 = detected, 0 = not detected, 9 = not yet analyzed.</description>
+            </data-attribute>
+            <data-attribute cc-id="288723">
+               <name>Humpback whale</name>
+               <data-storage-type>Unknown</data-storage-type>
+               <required>No</required>
+               <primary-key>No</primary-key>
+               <status>Active</status>
+               <description>Numerical value given to denote detection of humpback whale calls.  1 = detected, 0 = not detected, 9 = not yet analyzed.</description>
+            </data-attribute>
+            <data-attribute cc-id="288724">
+               <name>Fin whale</name>
+               <data-storage-type>Unknown</data-storage-type>
+               <required>No</required>
+               <primary-key>No</primary-key>
+               <status>Active</status>
+               <description>Numerical value given to denote detection of fin whale calls.  1 = detected, 0 = not detected, 9 = not yet analyzed.</description>
+            </data-attribute>
+            <data-attribute cc-id="288725">
+               <name>Killer whale</name>
+               <data-storage-type>Unknown</data-storage-type>
+               <required>No</required>
+               <primary-key>No</primary-key>
+               <status>Active</status>
+               <description>Numerical value given to denote detection of killer whale calls.  1 = detected, 0 = not detected, 9 = not yet analyzed.</description>
+            </data-attribute>
+            <data-attribute cc-id="288726">
+               <name>Walrus</name>
+               <data-storage-type>Unknown</data-storage-type>
+               <required>No</required>
+               <primary-key>No</primary-key>
+               <status>Active</status>
+               <description>Numerical value given to denote detection of walrus calls.  1 = detected, 0 = not detected, 9 = not yet analyzed.</description>
+            </data-attribute>
+            <data-attribute cc-id="288727">
+               <name>Gray whale</name>
+               <data-storage-type>Unknown</data-storage-type>
+               <required>No</required>
+               <primary-key>No</primary-key>
+               <status>Active</status>
+               <description>Numerical value given to denote detection of gray whale calls.  1 = detected, 0 = not detected, 9 = not yet analyzed.</description>
+            </data-attribute>
+            <data-attribute cc-id="288728">
+               <name>Minke whale</name>
+               <data-storage-type>Unknown</data-storage-type>
+               <required>No</required>
+               <primary-key>No</primary-key>
+               <status>Active</status>
+               <description>Numerical value given to denote detection of minke whale calls.  1 = detected, 0 = not detected, 9 = not yet analyzed.</description>
+            </data-attribute>
+            <data-attribute cc-id="288729">
+               <name>Airguns</name>
+               <data-storage-type>Unknown</data-storage-type>
+               <required>No</required>
+               <primary-key>No</primary-key>
+               <status>Active</status>
+               <description>Numerical value given to denote detection of seismic airgun signals.  1 = detected, 0 = not detected, 9 = not yet analyzed.</description>
+            </data-attribute>
+            <data-attribute cc-id="288730">
+               <name>Sperm whale</name>
+               <data-storage-type>Unknown</data-storage-type>
+               <required>No</required>
+               <primary-key>No</primary-key>
+               <status>Active</status>
+               <description>Numerical value given to denote detection of sperm whale calls.  1 = detected, 0 = not detected, 9 = not yet analyzed.</description>
+            </data-attribute>
+            <data-attribute cc-id="288731">
+               <name>Bearded Seal</name>
+               <data-storage-type>Unknown</data-storage-type>
+               <required>No</required>
+               <primary-key>No</primary-key>
+               <status>Active</status>
+               <description>Numerical value given to denote detection of bearded seal calls.  1 = detected, 0 = not detected, 9 = not yet analyzed.</description>
+            </data-attribute>
+            <data-attribute cc-id="288732">
+               <name>Beluga whale</name>
+               <data-storage-type>Unknown</data-storage-type>
+               <required>No</required>
+               <primary-key>No</primary-key>
+               <status>Active</status>
+               <description>Numerical value given to denote detection of beluga whale calls.  1 = detected, 0 = not detected, 9 = not yet analyzed.</description>
+            </data-attribute>
+            <data-attribute cc-id="288733">
+               <name>Ribbon Seal</name>
+               <data-storage-type>Unknown</data-storage-type>
+               <required>No</required>
+               <primary-key>No</primary-key>
+               <status>Active</status>
+               <description>Numerical value given to denote detection of ribbon seal calls.  1 = detected, 0 = not detected, 9 = not yet analyzed.</description>
+            </data-attribute>
+            <data-attribute cc-id="288734">
+               <name>Unknown Pinniped</name>
+               <data-storage-type>Unknown</data-storage-type>
+               <required>No</required>
+               <primary-key>No</primary-key>
+               <status>Active</status>
+               <description>Numerical value given to denote detection of unidentified pinniped calls.  1 = detected, 0 = not detected, 9 = not yet analyzed.</description>
+            </data-attribute>
+            <data-attribute cc-id="288735">
+               <name>Ice</name>
+               <data-storage-type>Unknown</data-storage-type>
+               <required>No</required>
+               <primary-key>No</primary-key>
+               <status>Active</status>
+               <description>Numerical value given to denote detection of ice noise.  1 = detected, 0 = not detected, 9 = not yet analyzed.</description>
+            </data-attribute>
+            <data-attribute cc-id="288736">
+               <name>Vessel</name>
+               <data-storage-type>Unknown</data-storage-type>
+               <required>No</required>
+               <primary-key>No</primary-key>
+               <status>Active</status>
+               <description>Numerical value given to denote detection of vessel noise.  1 = detected, 0 = not detected, 9 = not yet analyzed.</description>
+            </data-attribute>
+         </data-attributes>
+      </entity>
+   </entity-attribute-information>
+   <support-roles>
+      <support-role cc-id="227108" in-effect="Yes">
+         <support-role-type>Data Steward</support-role-type>
+         <from-date>2008</from-date>
+         <contact-type>Person</contact-type>
+         <contact-name>Berchok, Catherine</contact-name>
+         <contact-email>catherine.berchok@noaa.gov</contact-email>
+         <contact-phone-number>206-526-6331</contact-phone-number>
+      </support-role>
+      <support-role cc-id="288797" in-effect="Yes">
+         <support-role-type>Distributor</support-role-type>
+         <from-date>2016-02-19</from-date>
+         <contact-type>Organization</contact-type>
+         <contact-name>NOAA National Centers for Environmental Information</contact-name>
+         <contact-noaa-acronym>NCEI</contact-noaa-acronym>
+         <contact-email>ncei.info@noaa.gov</contact-email>
+         <contact-url>https://www.ncei.noaa.gov/contact</contact-url>
+         <contact-url-name>NCEI Contact Information</contact-url-name>
+         <contact-url-description>Information for contacts at NCEI.</contact-url-description>
+         <contact-url-function>Online Resource</contact-url-function>
+      </support-role>
+      <support-role cc-id="288795" in-effect="Yes">
+         <support-role-type>Metadata Contact</support-role-type>
+         <from-date>2016-02-19</from-date>
+         <contact-type>Person</contact-type>
+         <contact-name>MC, Metadata Coordinators</contact-name>
+         <contact-email>AFSC.metadata@noaa.gov</contact-email>
+      </support-role>
+      <support-role cc-id="288798" in-effect="Yes">
+         <support-role-type>Originator</support-role-type>
+         <from-date>2016-02-19</from-date>
+         <contact-type>Organization</contact-type>
+         <contact-name>Alaska Fisheries Science Center</contact-name>
+         <contact-noaa-acronym>AFSC</contact-noaa-acronym>
+         <contact-email>afsc.webmaster@noaa.gov</contact-email>
+         <contact-address>7600 Sand Point Way N.E., Building 4</contact-address>
+         <contact-address-city>Seattle</contact-address-city>
+         <contact-address-state>WA</contact-address-state>
+         <contact-address-zip>98115</contact-address-zip>
+         <contact-address-country>USA</contact-address-country>
+         <contact-phone-number>(206) 526-4000</contact-phone-number>
+         <contact-fax-number>(206) 526-4004</contact-fax-number>
+         <contact-url>https://www.fisheries.noaa.gov/about/alaska-fisheries-science-center</contact-url>
+         <contact-url-description>AKFSC Home Page</contact-url-description>
+         <contact-url-function>Online Resource</contact-url-function>
+         <contact-business-hours>0700-1700 Pacific Time</contact-business-hours>
+      </support-role>
+      <support-role cc-id="288796" in-effect="Yes">
+         <support-role-type>Point of Contact</support-role-type>
+         <from-date>2016-02-19</from-date>
+         <contact-type>Person</contact-type>
+         <contact-name>Berchok, Catherine</contact-name>
+         <contact-email>catherine.berchok@noaa.gov</contact-email>
+         <contact-phone-number>206-526-6331</contact-phone-number>
+      </support-role>
+   </support-roles>
+   <extents>
+      <currentness-reference>Ground Condition</currentness-reference>
+      <extent cc-id="288792">
+         <geographic-areas>
+            <geographic-area cc-id="288794">
+               <west-bound>-174.8</west-bound>
+               <east-bound>-0.5</east-bound>
+               <north-bound>78.9</north-bound>
+               <south-bound>53.5</south-bound>
+               <description>Eastern Bering, Chukchi, and Western Beaufort Seas, with a couple recorders in Fram Strait</description>
+            </geographic-area>
+         </geographic-areas>
+         <time-frames>
+            <time-frame cc-id="288793">
+               <time-frame-type>Range</time-frame-type>
+               <start-date-time>2007</start-date-time>
+               <end-date-time>2014</end-date-time>
+            </time-frame>
+         </time-frames>
+      </extent>
+   </extents>
+   <access-information>
+      <security-class>Unclassified</security-class>
+      <data-access-procedure>Data can be found at http://data.nodc.noaa.gov/cgi-bin/iso?id=gov.noaa.nodc:0143303</data-access-procedure>
+      <data-access-constraints>There are no legal restrictions on access to the data. They reside in public domain and can be freely distributed.</data-access-constraints>
+      <data-use-constraints>User must read and fully comprehend the metadata prior to use.  Applications or inferences derived from the data should be carefully considered for accuracy.  Acknowledgement
+of NOAA/NMFS/AFSC, as the source from which these data were obtained in any publications and/or other representations of these, data is suggested.</data-use-constraints>
+   </access-information>
+   <distribution-information>
+      <distribution cc-id="289353">
+         <download-url>http://data.nodc.noaa.gov/cgi-bin/iso?id=gov.noaa.nodc:0143303</download-url>
+         <distributor cc-id="288797">
+            <from-date>2016-02-19</from-date>
+            <contact-type>Organization</contact-type>
+            <contact-name>NOAA National Centers for Environmental Information</contact-name>
+         </distributor>
+         <description>Acoustic results</description>
+         <!--Note: file-type is deprecated-->
+         <file-type>csv (comma-separated values)</file-type>
+         <distribution-format>CSV - Comma Separated Values (Text)</distribution-format>
+      </distribution>
+   </distribution-information>
+   <data-quality>
+      <accuracy>Recordings are analyzed for presence of marine mammal vocalizations.  Questionable or ambiguous acoustic detections are analyzed in more detail, and if necessary, clips are sent to colleagues for confirmation or identification.</accuracy>
+      <completeness-report>In some instances, information only applies to one type of recorder.  Also, deployments or recoveries made by colleagues are often lacking information. A few recorders were lost and not recovered, or failed to record.</completeness-report>
+      <conceptual-consistency>Not applicable.</conceptual-consistency>
+      <quality-control-procedures>Recordings are analyzed for presence of marine mammal vocalizations.  Questionable or ambiguous acoustic detections are analyzed in more detail, and if necessary, clips are sent to colleagues for confirmation or identification.</quality-control-procedures>
+   </data-quality>
+   <data-management>
+      <resources-identified>No</resources-identified>
+      <resources-budget-percentage>0</resources-budget-percentage>
+      <data-access-directive-compliant>Yes</data-access-directive-compliant>
+      <data-access-directive-waiver>No</data-access-directive-waiver>
+      <delay-collection-dissemination>Unknown</delay-collection-dissemination>
+      <archive-location>NCEI-CO</archive-location>
+      <delay-collection-archive>Unknown</delay-collection-archive>
+      <data-protection-plan>IT Security and Contingency Plan for the system establishes procedures and applies to the functions, operations, and resources necessary to recover and restore data as hosted in the Western Regional Support Center in Seattle, Washington, following a disruption.</data-protection-plan>
+   </data-management>
+   <lineage>
+      <lineage-statement>Three different types of passive acoustic recorders have been used: AURALs (Autonomous Underwater Recorder for Acoustic Listening, Multi-Électronique, Inc., Rimouski, QC), EARs (Ecological Acoustic Recorders, in collaboration with Drs. Marc Lammers and Whitlow Au, Hawaii Institute of Marine Biology, Univ. of HI, Kaneohe, HI), and Haruphones (Haru Matsumoto, CIMRS/NOAA, Newport, OR)); the majority have been AURALs.   Recording parameters vary among instrument types and have evolved among projects.  Most recorders are deployed for one year and are duty cycled to record for a full year.  However, several recorders were deployed short-term (1 week to 1 month) in the Beaufort Sea and have higher duty cycles/sampling rates.  Sampling rates range from 2 kHz-40kHz (majority 8kHz or 16kHz), and all recorders are duty cycled from 23-97% (majority around 30%) on a cycle period of 20min-5hrs.  The majority of these recorders were deployed on MML subsurface moorings, although several have been deployed on the subsurface oceanographic moorings of other researchers.  These moorings include the Pacific Marine Environmental Laboratory/NOAA (Phyllis Stabeno) moorings along the 70m isobath in the Bering Sea,  the University of Alaska, Fairbanks (Steve Okkonen) moorings off Barrow, AK, one Woods Hole Oceanographic Institution (Robert Pickart) mooring in the Chukchi Sea,  the AIM-1 site on the Chukchi Plateau (Institute of Ocean Sciences - Fisheries and Oceans Canada/ Humfrey Melling), and two sites in the Fram Strait: Alfred Wegener Institute for Polar and Marine Research (Dirk Kalmbach) and University of Oslo (Øystein Wiig).  After recorder is retrieved, data are extracted, converted into ten-minute wave files, and given standardized filenames that provide the location, recorder type, and field time information. Further information can be obtained via the following final reports: http://www.afsc.noaa.gov/nmml/PDF/BOWFEST-2013-Final-Report.pdf.</lineage-statement>
+      <lineage-process-steps>
+         <lineage-process-step cc-id="288799">
+            <sequence-number>1</sequence-number>
+            <description>NA</description>
+         </lineage-process-step>
+      </lineage-process-steps>
+   </lineage>
+   <child-items>
+      <child-item>
+         <catalog-item-id>26355</catalog-item-id>
+         <catalog-item-type>Entity</catalog-item-type>
+         <title>csv file</title>
+      </child-item>
+   </child-items>
+   <catalog-details>
+      <guid>gov.noaa.nmfs.inport:17343</guid>
+      <metadata-record-created-by pers-id="0">SysAdmin InPortAdmin</metadata-record-created-by>
+      <metadata-record-created>2012-12-21T17:08:35</metadata-record-created>
+      <metadata-record-last-modified-by pers-id="0">SysAdmin InPortAdmin</metadata-record-last-modified-by>
+      <metadata-record-last-modified>2024-10-03T18:16:04</metadata-record-last-modified>
+      <record-published>2018-11-30</record-published>
+      <owner-organization>Alaska Fisheries Science Center</owner-organization>
+      <owner-organization-acronym>AFSC</owner-organization-acronym>
+      <owner-organization-address>7600 Sand Point Way N.E., Building 4</owner-organization-address>
+      <owner-organization-address-city>Seattle</owner-organization-address-city>
+      <owner-organization-address-state>WA</owner-organization-address-state>
+      <owner-organization-address-zip>98115</owner-organization-address-zip>
+      <owner-organization-address-country>USA</owner-organization-address-country>
+      <owner-organization-phone/>
+      <owner-organization-url>http://www.afsc.noaa.gov</owner-organization-url>
+      <owner-organization-business-hours>0700-1700 Pacific Time</owner-organization-business-hours>
+      <owner-organization-group-id>1001</owner-organization-group-id>
+      <publication-status>Public</publication-status>
+      <best-available-metadata>No</best-available-metadata>
+      <is-do-not-publish>No</is-do-not-publish>
+      <metadata-last-review-date>2018-11-30</metadata-last-review-date>
+      <metadata-review-frequency>1 Year</metadata-review-frequency>
+      <metadata-next-review-date>2019-11-30</metadata-next-review-date>
+   </catalog-details>
+   <supplementary>
+      <fgdc-taxonomy>
+         <taxoncl>
+            <taxonrn>Kingdom</taxonrn>
+            <taxonrv>Animalia</taxonrv>
+            <taxoncl>
+               <taxonrn>Genus</taxonrn>
+               <taxonrv>odobenus</taxonrv>
+               <taxoncl>
+                  <taxonrn>Species</taxonrn>
+                  <taxonrv>rosmarus</taxonrv>
+                  <common>walrus</common>
+               </taxoncl>
+            </taxoncl>
+            <taxoncl>
+               <taxonrn>Genus</taxonrn>
+               <taxonrv>Delphinapterus</taxonrv>
+               <taxoncl>
+                  <taxonrn>Species</taxonrn>
+                  <taxonrv>leucas</taxonrv>
+                  <common>Beluga whale</common>
+               </taxoncl>
+            </taxoncl>
+            <taxoncl>
+               <taxonrn>Genus</taxonrn>
+               <taxonrv>Orcinus</taxonrv>
+               <taxoncl>
+                  <taxonrn>Species</taxonrn>
+                  <taxonrv>orca</taxonrv>
+                  <common>Killer whale</common>
+               </taxoncl>
+            </taxoncl>
+            <taxoncl>
+               <taxonrn>Genus</taxonrn>
+               <taxonrv>Balaenoptera</taxonrv>
+               <taxoncl>
+                  <taxonrn>Species</taxonrn>
+                  <taxonrv>acutorostrata</taxonrv>
+                  <common>Minke whale</common>
+               </taxoncl>
+            </taxoncl>
+            <taxoncl>
+               <taxonrn>Genus</taxonrn>
+               <taxonrv>Balaenoptera</taxonrv>
+               <taxoncl>
+                  <taxonrn>Species</taxonrn>
+                  <taxonrv>physalus</taxonrv>
+                  <common>Fin whales</common>
+               </taxoncl>
+            </taxoncl>
+            <taxoncl>
+               <taxonrn>Genus</taxonrn>
+               <taxonrv>Eschrichtius</taxonrv>
+               <taxoncl>
+                  <taxonrn>Species</taxonrn>
+                  <taxonrv>robustus</taxonrv>
+                  <common>Gray whale</common>
+               </taxoncl>
+            </taxoncl>
+            <taxoncl>
+               <taxonrn>Genus</taxonrn>
+               <taxonrv>Eubalaena</taxonrv>
+               <taxoncl>
+                  <taxonrn>Species</taxonrn>
+                  <taxonrv>japonica</taxonrv>
+                  <common>North Pacific right whale</common>
+               </taxoncl>
+            </taxoncl>
+            <taxoncl>
+               <taxonrn>Genus</taxonrn>
+               <taxonrv>Balaena</taxonrv>
+               <taxoncl>
+                  <taxonrn>Species</taxonrn>
+                  <taxonrv>mysticetus</taxonrv>
+                  <common>Bowhead whale</common>
+               </taxoncl>
+            </taxoncl>
+            <taxoncl>
+               <taxonrn>Genus</taxonrn>
+               <taxonrv>Megaptera</taxonrv>
+               <taxoncl>
+                  <taxonrn>Species</taxonrn>
+                  <taxonrv>novaeangliae</taxonrv>
+                  <common>Humpback whales</common>
+               </taxoncl>
+            </taxoncl>
+            <taxoncl>
+               <taxonrn>Genus</taxonrn>
+               <taxonrv>Physeter</taxonrv>
+               <taxoncl>
+                  <taxonrn>Species</taxonrn>
+                  <taxonrv>macrocephalus</taxonrv>
+                  <common>Sperm whale</common>
+               </taxoncl>
+            </taxoncl>
+            <taxoncl>
+               <taxonrn>Genus</taxonrn>
+               <taxonrv>Erignathus</taxonrv>
+               <taxoncl>
+                  <taxonrn>Species</taxonrn>
+                  <taxonrv>barbatus</taxonrv>
+                  <common>Bearded seal</common>
+               </taxoncl>
+            </taxoncl>
+            <taxoncl>
+               <taxonrn>Genus</taxonrn>
+               <taxonrv>Phoca</taxonrv>
+               <taxoncl>
+                  <taxonrn>Species</taxonrn>
+                  <taxonrv>hispida</taxonrv>
+                  <common>Ringed seal</common>
+               </taxoncl>
+            </taxoncl>
+            <taxoncl>
+               <taxonrn>Genus</taxonrn>
+               <taxonrv>Phoca</taxonrv>
+               <taxoncl>
+                  <taxonrn>Species</taxonrn>
+                  <taxonrv>fasciata</taxonrv>
+                  <common>Ribbon seal</common>
+               </taxoncl>
+            </taxoncl>
+         </taxoncl>
+      </fgdc-taxonomy>
+      <fgdc-eainfo>
+         <detailed>
+            <enttyp>
+               <enttypl>Moorings</enttypl>
+               <enttypd>description of moorings</enttypd>
+               <enttypds>AFSC</enttypds>
+            </enttyp>
+            <attr>
+               <attrlabl>ID</attrlabl>
+               <attrdef/>
+               <attrdefs>AFSC</attrdefs>
+               <rdom>
+                  <rdommin>1</rdommin>
+                  <rdommax>167</rdommax>
+               </rdom>
+            </attr>
+            <attr>
+               <attrlabl>Mooring.Name</attrlabl>
+               <attrdef>NA</attrdef>
+               <attrdefs>AFSC</attrdefs>
+               <rdom>
+                  <rdommin>1</rdommin>
+                  <rdommax>153</rdommax>
+               </rdom>
+            </attr>
+            <attr>
+               <attrlabl>Data.Start</attrlabl>
+               <attrdef>NA</attrdef>
+               <attrdefs>AFSC</attrdefs>
+               <rdom>
+                  <rdommin>1</rdommin>
+                  <rdommax>89</rdommax>
+               </rdom>
+            </attr>
+            <attr>
+               <attrlabl>Data.End</attrlabl>
+               <attrdef>NA</attrdef>
+               <attrdefs>AFSC</attrdefs>
+               <rdom>
+                  <rdommin>1</rdommin>
+                  <rdommax>129</rdommax>
+               </rdom>
+            </attr>
+            <attr>
+               <attrlabl>Recorder.Type</attrlabl>
+               <attrdef>NA</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>Recorder.Serial.Number</attrlabl>
+               <attrdef>NA</attrdef>
+               <attrdefs>AFSC</attrdefs>
+               <rdom>
+                  <rdommin>1</rdommin>
+                  <rdommax>64</rdommax>
+               </rdom>
+            </attr>
+            <attr>
+               <attrlabl>Sampling..Rate..Hz.</attrlabl>
+               <attrdef>NA</attrdef>
+               <attrdefs>AFSC</attrdefs>
+               <rdom>
+                  <rdommin>2000</rdommin>
+                  <rdommax>40000</rdommax>
+               </rdom>
+            </attr>
+            <attr>
+               <attrlabl>Record.Period..min.</attrlabl>
+               <attrdef>NA</attrdef>
+               <attrdefs>AFSC</attrdefs>
+               <rdom>
+                  <rdommin>4</rdommin>
+                  <rdommax>491.52</rdommax>
+               </rdom>
+            </attr>
+            <attr>
+               <attrlabl>Cycle.Time..min.</attrlabl>
+               <attrdef>NA</attrdef>
+               <attrdefs>AFSC</attrdefs>
+               <rdom>
+                  <rdommin>11.02</rdommin>
+                  <rdommax>491.82</rdommax>
+               </rdom>
+            </attr>
+            <attr>
+               <attrlabl>Gain..dB.</attrlabl>
+               <attrdef>NA</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>Lat</attrlabl>
+               <attrdef>Latitude of the mooring location, in decimal degrees N.</attrdef>
+               <attrdefs>AFSC</attrdefs>
+               <rdom>
+                  <rdommin>53.6318</rdommin>
+                  <rdommax>78.836667</rdommax>
+               </rdom>
+            </attr>
+            <attr>
+               <attrlabl>Long</attrlabl>
+               <attrdef>Longitude of the mooring location, in decimal degrees W.</attrdef>
+               <attrdefs>AFSC</attrdefs>
+               <rdom>
+                  <rdommin>-174.6756667</rdommin>
+                  <rdommax>174.65925</rdommax>
+               </rdom>
+            </attr>
+            <attr>
+               <attrlabl>Depth..m.</attrlabl>
+               <attrdef>NA</attrdef>
+               <attrdefs>AFSC</attrdefs>
+               <rdom>
+                  <rdommin>9</rdommin>
+                  <rdommax>165.575</rdommax>
+               </rdom>
+            </attr>
+            <attr>
+               <attrlabl>Deployment.Timestamp</attrlabl>
+               <attrdef>NA</attrdef>
+               <attrdefs>AFSC</attrdefs>
+               <rdom>
+                  <rdommin>1</rdommin>
+                  <rdommax>146</rdommax>
+               </rdom>
+            </attr>
+            <attr>
+               <attrlabl>Retrieval.Timestamp</attrlabl>
+               <attrdef>NA</attrdef>
+               <attrdefs>AFSC</attrdefs>
+               <rdom>
+                  <rdommin>1</rdommin>
+                  <rdommax>146</rdommax>
+               </rdom>
+            </attr>
+            <attr>
+               <attrlabl>Mooring.Type</attrlabl>
+               <attrdef>NA</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>PCB.Board.SN</attrlabl>
+               <attrdef>NA</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>PCB.version</attrlabl>
+               <attrdef>NA</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>Recorder.Firmware</attrlabl>
+               <attrdef>NA</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>Hydrophone.SN</attrlabl>
+               <attrdef>NA</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>Hydrophone.Sensitivity</attrlabl>
+               <attrdef>NA</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>Funding.Source</attrlabl>
+               <attrdef>NA</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>Comments</attrlabl>
+               <attrdef>Relevant comments regarding instrument/equipment, programming, deployment, etc.</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+         </detailed>
+         <detailed>
+            <enttyp>
+               <enttypl>CZ10_AU_A03 - there are a total of six files with these same attributes</enttypl>
+               <enttypd>Mooring data -</enttypd>
+               <enttypds>AFSC</enttypds>
+            </enttyp>
+            <attr>
+               <attrlabl>Date</attrlabl>
+               <attrdef>Date for the acoustic presence of listed species (UTC).</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>Mooring Name</attrlabl>
+               <attrdef>Name given to mooring.  First two letters represent project name, next two numbers represent deployment year, next two letters designate recorder type, next one or two letters designate location or mooring type, last two numbers designate mooring number.</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>Recordings Available</attrlabl>
+               <attrdef>Numerical value given to denote whether acoustic recordings are available for this date. 1 = yes, 2 = no.</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>Right whale</attrlabl>
+               <attrdef>Numerical value given to denote detection of right whale calls.  1 = detected, 0 = not detected, 9 = not yet analyzed.</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>Gunshot call</attrlabl>
+               <attrdef>Numerical value given to denote detection of gunshot call type.  1 = detected, 0 = not detected, 9 = not yet analyzed.</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>Bowhead whale</attrlabl>
+               <attrdef>Numerical value given to denote detection of bowhead whale calls.  1 = detected, 0 = not detected, 9 = not yet analyzed.</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>Humpback whale</attrlabl>
+               <attrdef>Numerical value given to denote detection of humpback whale calls.  1 = detected, 0 = not detected, 9 = not yet analyzed.</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>Fin whale</attrlabl>
+               <attrdef>Numerical value given to denote detection of fin whale calls.  1 = detected, 0 = not detected, 9 = not yet analyzed.</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>Killer whale</attrlabl>
+               <attrdef>Numerical value given to denote detection of killer whale calls.  1 = detected, 0 = not detected, 9 = not yet analyzed.</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>Walrus</attrlabl>
+               <attrdef>Numerical value given to denote detection of walrus calls.  1 = detected, 0 = not detected, 9 = not yet analyzed.</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>Gray whale</attrlabl>
+               <attrdef>Numerical value given to denote detection of gray whale calls.  1 = detected, 0 = not detected, 9 = not yet analyzed.</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>Minke whale</attrlabl>
+               <attrdef>Numerical value given to denote detection of minke whale calls.  1 = detected, 0 = not detected, 9 = not yet analyzed.</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>Airguns</attrlabl>
+               <attrdef>Numerical value given to denote detection of seismic airgun signals.  1 = detected, 0 = not detected, 9 = not yet analyzed.</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>Sperm whale</attrlabl>
+               <attrdef>Numerical value given to denote detection of sperm whale calls.  1 = detected, 0 = not detected, 9 = not yet analyzed.</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>Bearded Seal</attrlabl>
+               <attrdef>Numerical value given to denote detection of bearded seal calls.  1 = detected, 0 = not detected, 9 = not yet analyzed.</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>Beluga whale</attrlabl>
+               <attrdef>Numerical value given to denote detection of beluga whale calls.  1 = detected, 0 = not detected, 9 = not yet analyzed.</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>Ribbon Seal</attrlabl>
+               <attrdef>Numerical value given to denote detection of ribbon seal calls.  1 = detected, 0 = not detected, 9 = not yet analyzed.</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>Unknown Pinniped</attrlabl>
+               <attrdef>Numerical value given to denote detection of unidentified pinniped calls.  1 = detected, 0 = not detected, 9 = not yet analyzed.</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>Ice</attrlabl>
+               <attrdef>Numerical value given to denote detection of ice noise.  1 = detected, 0 = not detected, 9 = not yet analyzed.</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+            <attr>
+               <attrlabl>Vessel</attrlabl>
+               <attrdef>Numerical value given to denote detection of vessel noise.  1 = detected, 0 = not detected, 9 = not yet analyzed.</attrdef>
+               <attrdefs>AFSC</attrdefs>
+            </attr>
+         </detailed>
+      </fgdc-eainfo>
+   </supplementary>
+</inport-metadata>
